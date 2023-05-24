@@ -1,4 +1,3 @@
-# problem_solving
 # Daily Problem Solving Repository
 
 This repository is dedicated to documenting and tracking daily problem-solving activities. It serves as a personal collection of solutions to various coding problems and challenges, showcasing continuous learning and growth in problem-solving skills.
